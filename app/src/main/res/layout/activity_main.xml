@@ -347,5 +347,4 @@
             app:layout_constraintTop_toBottomOf="@id/loginOptions" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
-
 </androidx.core.widget.NestedScrollView>
