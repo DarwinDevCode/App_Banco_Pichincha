@@ -74,6 +74,7 @@ Autor:
 Darwin Sánchez
 
 Observaciones
+
 Este proyecto fue desarrollado con fines académicos para practicar:
 - diseño de interfaces móviles,
 - layouts responsivos,
