@@ -44,11 +44,10 @@ Métodos de Inicio de Sesión
 - PIN de 6 dígitos
 
 Capturas del Diseño
-<img width="1366" height="961" alt="image" src="https://github.com/user-attachments/assets/c8f20381-a0d2-4eb9-94d8-a1a35a6fa63a" />
-
+<img width="1366" height="961" alt="Captura de pantalla 2026-05-29 152858" src="https://github.com/user-attachments/assets/4017df56-1d5c-45cb-832e-d67cce4bf85a" />
 
 Estructura del Proyecto
-<img width="563" height="749" alt="image" src="https://github.com/user-attachments/assets/1630ac7e-a2af-471e-a992-5c97e60401e8" />
+<img width="563" height="749" alt="Captura de pantalla 2026-05-29 153222" src="https://github.com/user-attachments/assets/e235ec7e-ea75-40fa-b497-35d7b1842a7b" />
 
 Diseño Responsivo
 
